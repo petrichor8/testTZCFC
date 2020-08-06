@@ -57,7 +57,3 @@ non-classpath:
 tz=createObject("component","REMOTEicu4jJTZ").init("c:\resources\icu4j.jar");
 timezones=tz.getTZByCountry("AU");
 </cfscript>
-
-
-If you like, you can find my wishlist at 
-http://www.amazon.com/gp/registry/wishlist/35SOQPL36CP87/104-4400936-8795966
